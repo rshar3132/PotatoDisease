@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+uvicorn
+pillow
+tensorflow-serving-api
+fastapi
